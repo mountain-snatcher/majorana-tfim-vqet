@@ -1,0 +1,8 @@
+## Requirements  
+- Python 3.8+  
+- numpy  
+- matplotlib  
+
+Install dependencies using:  
+```bash
+pip install numpy matplotlib
