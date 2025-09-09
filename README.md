@@ -1,6 +1,4 @@
-# 🌌 Exploring Majorana Zero Modes in Quantum Spin Chains
-
-#  What Is It About?
+#  Exploring Majorana Zero Modes in Quantum Spin Chains
 
 This project simulates a special type of quantum system—a chain of tiny magnets (called spins)—and explores the possibility of finding Majorana zero modes, which are strange, stable particles that could one day power error-proof quantum computers.
 
