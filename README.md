@@ -1,6 +1,6 @@
 # 🌌 Exploring Majorana Zero Modes in Quantum Spin Chains
 
-# 🧭 What Is This All About?
+#  What Is It About?
 
 This project simulates a special type of quantum system—a chain of tiny magnets (called spins)—and explores the possibility of finding Majorana zero modes, which are strange, stable particles that could one day power error-proof quantum computers.
 
@@ -8,7 +8,7 @@ Think of this as exploring a tiny universe governed by quantum rules to search f
 
 
 
-# 💡 Why Do This?
+#  Why Do This?
 
 Quantum computers are powerful, but they are also very sensitive to errors. Tiny disturbances from the environment can ruin a calculation.
 
@@ -18,9 +18,9 @@ This project focuses on one such system: the transverse-field Ising model (TFIM)
 
 
 
-# 🧱 Basics You Should Know
+#  Basics You Should Know
 
-# 🔹 What Is a Spin Chain?
+#  What Is a Spin Chain?
 
 Imagine a row of quantum particles where each particle acts like a tiny magnet, pointing either up or down. These spins can interact with each other and with external magnetic fields.
 
@@ -81,7 +81,7 @@ H = - ∑ ( g σ_i^x + λ₁ σ_{i-1}^x σ_i^z + λ₂ σ_i^x σ_{i-1}^z σ_{i+1
 
 
 
-# 🔬 Topological Insight
+#  Topological Insight
 
 - The number of MZMs at the edges changes across critical lines in the (λ₁, λ₂) parameter space.
 - These changes are tied to a winding number that quantifies how the BdG Hamiltonian "wraps" in phase space.
@@ -89,7 +89,7 @@ H = - ∑ ( g σ_i^x + λ₁ σ_{i-1}^x σ_i^z + λ₂ σ_i^x σ_{i-1}^z σ_{i+1
 
 
 
-# 📈 Sample Results
+#  Sample Results
 
 - Regions with 0, 1, or 2 Majorana modes were confirmed via diagonalization.
 - Edge-localized eigenvectors confirm Majorana nature.
@@ -98,7 +98,7 @@ H = - ∑ ( g σ_i^x + λ₁ σ_{i-1}^x σ_i^z + λ₂ σ_i^x σ_{i-1}^z σ_{i+1
 
 
 
-# 🧪 What We Found
+#  What We Found
 
 - We discovered regions in parameter space where the system hosts 0, 1, or 2 Majorana zero modes at its ends.
 - These MZMs only appear under open boundary conditions, not in closed loops.
@@ -107,7 +107,7 @@ H = - ∑ ( g σ_i^x + λ₁ σ_{i-1}^x σ_i^z + λ₂ σ_i^x σ_{i-1}^z σ_{i+1
 
 
 
-# 🌍 Why This Matters
+#  Why This Matters
 
 - Quantum Computing: Majorana zero modes could be used to build topological qubits, which are naturally resistant to errors.
 - Material Science: The model studied here is similar to real systems like nanowires or superconducting chains.
@@ -115,7 +115,7 @@ H = - ∑ ( g σ_i^x + λ₁ σ_{i-1}^x σ_i^z + λ₂ σ_i^x σ_{i-1}^z σ_{i+1
 
 
 
-# 📈 Visuals Included
+# Visuals Included
 
 - Phase diagrams showing where phase transitions occur.
 - Plots of eigenvectors that clearly show edge-localized zero-energy modes.
